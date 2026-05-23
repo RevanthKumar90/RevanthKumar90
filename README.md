@@ -1,16 +1,72 @@
-## Hi there 👋
+# Hi 👋 I'm Revanth Kumar
 
-<!--
-**RevanthKumar90/RevanthKumar90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Full Stack Developer  
+🌱 Currently learning MERN Stack, AI & Machine Learning  
+🚀 Interested in building practical and user-friendly applications
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Technical Skills
+- Python
+- Java
+- HTML
+- CSS
+- JavaScript
+- MySQL
+- Git & GitHub
+- Streamlit
+  
+### Programming Languages
+- Python
+- Java
+- C
+
+### Web Technologies
+- HTML
+- CSS
+- JavaScript
+
+### Databases & Tools
+- MySQL
+- Streamlit
+- Power BI
+- Git & GitHub
+
+---
+
+## 📌 Featured Projects
+
+### 📄 PDF Summarizer
+Developed an AI-powered PDF summarization tool using Python, Streamlit, and HuggingFace Transformers to generate concise summaries from uploaded documents.
+
+### 🌦 Weather Application
+Built a responsive weather application using HTML, CSS, and JavaScript with real-time weather data integration using OpenWeatherMap API.
+
+### 🤖 Guava AI Detector
+Created an AI-based Android application for guava leaf disease detection using TensorFlow Lite.
+
+### 🛒 E-Commerce Website
+Designed and developed a frontend e-commerce application with a clean and responsive user interface.
+
+---
+
+## 📜 Certifications
+
+- NPTEL – Database Management Systems
+- NPTEL – Introduction to Machine Learning
+- Spoken Tutorial – Java Programming
+
+---
+
+## 🌐 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/p-revanth-kumar-4958a82a5
+- GitHub: github.com/RevanthKumar90
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RevanthKumar90&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RevanthKumar90&layout=compact&theme=tokyonight)
