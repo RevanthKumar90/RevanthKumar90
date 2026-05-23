@@ -67,6 +67,7 @@ Designed and developed a frontend e-commerce application with a clean and respon
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RevanthKumar90&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RevanthKumar90&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RevanthKumar90&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RevanthKumar90&layout=compact&theme=tokyonight" height="160"/>
+</p>
